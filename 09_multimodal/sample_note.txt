@@ -1,0 +1,2 @@
+For the live demo, place any JPG or PNG image in this folder and name it sample.jpg,
+or pass another image path as a command-line argument.
